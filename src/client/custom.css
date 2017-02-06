@@ -1,0 +1,9 @@
+
+
+.column-select{
+	cursor:pointer;
+}
+
+.column-select:hover{
+	color:#9A144A;
+}
